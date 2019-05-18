@@ -1,6 +1,9 @@
 # emi_event
 
-A new Flutter application.
+![](https://github.com/ElmouradiAmine/EmiNews/blob/master/screenshots/Capture%20d’écran%202019-05-17%20à%2018.06.03.png)
+![](https://github.com/ElmouradiAmine/EmiNews/blob/master/screenshots/Capture%20d’écran%202019-05-17%20à%2018.06.15.png)
+![](https://github.com/ElmouradiAmine/EmiNews/blob/master/screenshots/Capture%20d’écran%202019-05-17%20à%2018.06.24.png)
+![](https://github.com/ElmouradiAmine/EmiNews/blob/master/screenshots/Capture%20d’écran%202019-05-17%20à%2018.10.30.png)
 
 ## Getting Started
 
