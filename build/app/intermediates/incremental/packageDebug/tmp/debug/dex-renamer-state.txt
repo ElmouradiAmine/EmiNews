@@ -1,0 +1,4 @@
+#Sat May 18 12:28:43 WET 2019
+base.0=/Users/macbook/AndroidStudioProjects/emi_event/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
